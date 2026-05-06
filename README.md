@@ -9,7 +9,6 @@
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=github&logoColor=white)
 ![Deploy to GitHub Pages](https://github.com/mseow0001-hue/bribebooking/actions/workflows/pages.yml/badge.svg)
 
-<!-- Replace screenshot.png with an actual screenshot of the live site -->
 ![Lumière Preview](screenshot.png)
 
 ## Live Demo
